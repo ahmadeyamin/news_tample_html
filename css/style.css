@@ -183,7 +183,7 @@
   margin: 10px 20px;
   padding: 10px 11px 10px 15px;
   background-color: transparent;
-  background-image: url("https://uploads-ssl.webflow.com/5ee8eca224a7f662449e1079/5eec77a8fe118d4c8bd8ba6b_icons8-search.svg");
+  background-image: url("../images/icons8-search.svg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2282,7 +2282,7 @@
 
 @font-face {
   font-family: 'Solaimanlipi';
-  src: url('https://uploads-ssl.webflow.com/5ee8eca224a7f662449e1079/5ee8fec04c0da22deab66931_SolaimanLipi.woff') format('woff');
+  src: url('../font/SolaimanLipi.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
