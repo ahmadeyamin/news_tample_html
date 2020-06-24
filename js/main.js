@@ -4743,7 +4743,7 @@
     e.IX2_ID_DELIMITER = "|";
     e.WF_PAGE = "";
     e.W_MOD_JS = "";
-    e.W_MOD_IX = "w-mod-ix";
+    e.W_MOD_IX = "w3-si";
     e.BOUNDARY_SELECTOR = ".w-dyn-item";
     e.CONFIG_X_VALUE = "xValue";
     e.CONFIG_Y_VALUE = "yValue";
